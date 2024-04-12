@@ -12,3 +12,4 @@ Description: This project involves scraping data from various websites using Pyt
 The scraped data is then analyzed to extract useful information and insights.
 
 And some more projects similarly are also posted in this repository
+
